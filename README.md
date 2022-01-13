@@ -42,7 +42,7 @@ Conección del circuito
 
 - Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-|RL (Ohmios)|Corriente Medida (mA)|Voltaje Medido (V)|Potencia Calculada Experimentalmente (W)|Potencia Calculada Teóricamente (W)|
+|RL / (Ohmios)|Corriente Medida (mA)|Voltaje Medido (V)|Potencia Calculada Experimentalmente (W)|Potencia Calculada Teóricamente (W)|
 |-----------|---------------------|------------------|----------------------------------------|-----------------------------------|
 |220 Ω|mA|V|W|W|
 |470 Ω|mA|V|W|W|
