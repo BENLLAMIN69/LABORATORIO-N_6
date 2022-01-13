@@ -8,7 +8,7 @@
 # Ojetivos específicos
 
 1. Explicar de manera teórica el Teorema de la Máxima Transferencia de Potencia mediante cuadro sinóptico. 
-2. Calcular la máxima transferencia de potencia que presentan los resistores en el circuito para su comprobación experimental
+2. Calcular la máxima transferencia de potencia que presentan los resistores en el circuito para su comprobación experimental en laboratorio virtual DCAC.
 3. Analizar el efecto de la variación de la carga en la potencia entregada por un circuitO para comprobar Teorema de Máxima transferencia de Potencia.
 
 # Marco teórico
@@ -40,7 +40,49 @@
 
 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
-* Para R=220 Ω *
+- Formula
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20184316.png)
+
+- Para R=220 Ω 
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.43.36%20PM.jpeg)
+
+- Para R=470 Ω
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.45.51%20PM.jpeg)
+
+- Para R=680 Ω
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.52.03%20PM.jpeg)
+
+- Para R=820 Ω
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.52.32%20PM.jpeg)
+
+- Para R=1000 Ω
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.53.23%20PM.jpeg)
+
+- Para R=1500 Ω
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.53.57%20PM.jpeg)
+
+- Para R=1800 Ω
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.54.28%20PM.jpeg)
+
+- Para R=2200 Ω
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.54.57%20PM.jpeg)
+
+- Para R=3900 Ω
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.55.40%20PM.jpeg)
+
+- Para R=4700 Ω
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.56.11%20PM.jpeg)
 
 - Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
@@ -58,6 +100,23 @@ Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6
 |4700 Ω|mA|V|W|W|
 
 # Error producido
+
+- Formula
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20183813.png)
+
+|RL (Ohmios)|Cálculo de error |Error (%)|
+|-----------|-----------------|---------|
+|220 Ω|Nota: poner imagen de error aqui|%|
+|470 Ω||%|
+|680 Ω||%|
+|820 Ω||%|
+|1000 Ω||%|
+|1500 Ω||%|
+|1800 Ω||%|
+|2200 Ω||%|
+|3900 Ω||%|
+|4700 Ω||%|
 
 # Video
 
