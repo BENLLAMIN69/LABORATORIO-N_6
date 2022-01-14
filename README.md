@@ -96,6 +96,8 @@ CALCULOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/149431818-ef2280e0-a6cc-42dd-98e5-2fb6be7973a6.png)
 
+
+
 - Implemente el circuito que se presenta en la figura
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20175815.png)
 - Resolución simulada
