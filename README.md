@@ -154,35 +154,37 @@ Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6
 
 |RL (Ohmios)|Corriente Medida (mA)|Voltaje Medido (V)|Potencia Calculada Experimentalmente (W)|Potencia Calculada Teóricamente (W)|
 |-----------|---------------------|------------------|----------------------------------------|-----------------------------------|
-|220 Ω|mA|V|W|W|
-|470 Ω|mA|V|W|W|
-|680 Ω|mA|V|W|W|
-|820 Ω|mA|V|W|W|
-|1000 Ω|mA|V|W|W|
-|1500 Ω|mA|V|W|W|
-|1800 Ω|mA|V|W|W|
-|2200 Ω|mA|V|W|W|
-|3900 Ω|mA|V|W|W|
-|4700 Ω|mA|V|W|W|
+|220 Ω|10.6mA|2.32V|0.023W0.0245|W|
+|470 Ω|8.98mA|4.22V|0.037W|0.0379W|
+|680 Ω|7.98mA|5.42V|0.042W|0.0432W|
+|820 Ω|7.43mA|6.09V|0.044W|0.0452W|
+|1000 Ω|6.82mA|6.82V|0.047W|0.0464W|
+|1500 Ω|5.56mA|8.33V|0.049W|0.0462W|
+|1800 Ω|5.00mA|9.00V|0.045W|0.045W|
+|2200 Ω|4.41mA|9.71V|0.039W|0.042W|
+|3900 Ω|2.94mA|11.5V|0.035W|0.033W|
+|4700 Ω|2.54mA|11.9V|0.035W|0.030W|
 
 # Error producido
 
 - Formula
 
+
+
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20183813.png)
 
 |RL (Ohmios)|Cálculo de error |Error (%)|
 |-----------|-----------------|---------|
-|220 Ω|Nota: poner imagen de error aqui|%|
-|470 Ω||%|
-|680 Ω||%|
-|820 Ω||%|
-|1000 Ω||%|
-|1500 Ω||%|
-|1800 Ω||%|
-|2200 Ω||%|
-|3900 Ω||%|
-|4700 Ω||%|
+|220 Ω|4.34|%|
+|470 Ω|2.43|%|
+|680 Ω|2.85|%|
+|820 Ω|2.72|%|
+|1000 Ω|1.27|%|
+|1500 Ω|5.7|%|
+|1800 Ω|0|%|
+|2200 Ω|7.69|%|
+|3900 Ω|5.7|%|
+|4700 Ω|13.3|%|
 
 # Video
 
