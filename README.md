@@ -190,7 +190,16 @@
 
 ![image](https://user-images.githubusercontent.com/93900233/149434336-a261368a-fa74-4b57-9d52-8fe0f0096e9c.png)
 
+- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
+El teorema de la Máxima Transferencia de Potencia se cumple, ya que teoricamente Rl tiene que tener un valor similar o el mismo valor de resistencia para que se produzca este fenomeno fisico, y esto se lo puede observar en la resistencia de 1000 Ω.
+- ¿Cuál fue la potencia máxima en RL?
+
+Un valor de 0.047 W.
+
+- ¿Para qué valor de RL se obtiene la MTP?
+
+Fundamentado en la MTP la Rl es la de 1000  Ω.
 
 
 |RL (Ohmios)|Cálculo de error |Error (%)|
