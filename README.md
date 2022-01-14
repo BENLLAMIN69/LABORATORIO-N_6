@@ -33,6 +33,68 @@
 |1|Resistor de 4.7 kΩ|
 |1|Protoboard|
 
+# - Implemente el circuito que se presenta en la figura
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20175815.png)
+
+# - Resolución simulada
+
+# Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
+
+# - Formula
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20184316.png)
+
+# - Para R=220 Ω 
+
+![WhatsApp Image 2022-01-13 at 12 44 43](https://user-images.githubusercontent.com/93899422/149450281-1bdfc076-fd8b-4ebb-8242-c0e986542cd3.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.43.36%20PM.jpeg)
+
+# - Para R=470 Ω
+
+![WhatsApp Image 2022-01-13 at 12 45 20](https://user-images.githubusercontent.com/93899422/149450312-ec2e3e9b-4cc2-4fbf-b8f6-f3a028ab9677.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.45.51%20PM.jpeg)
+
+# - Para R=680 Ω
+
+![WhatsApp Image 2022-01-13 at 12 45 45](https://user-images.githubusercontent.com/93899422/149450333-507f6e69-fdd3-4dde-882d-47cf5d931b22.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.52.03%20PM.jpeg)
+
+# - Para R=820 Ω
+
+![WhatsApp Image 2022-01-13 at 12 46 01](https://user-images.githubusercontent.com/93899422/149450357-75c1c1b6-6092-465b-9b7a-e5e2f5f6a831.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.52.32%20PM.jpeg)
+
+# - Para R=1000 Ω
+
+![WhatsApp Image 2022-01-13 at 12 46 28](https://user-images.githubusercontent.com/93899422/149450377-220a0acc-c374-4c69-8ad4-1066f30554c6.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.53.23%20PM.jpeg)
+
+# - Para R=1500 Ω
+
+![WhatsApp Image 2022-01-13 at 12 46 45](https://user-images.githubusercontent.com/93899422/149450396-aaf368fa-0393-4079-aeea-8427586054e1.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.53.57%20PM.jpeg)
+
+# - Para R=1800 Ω
+
+![WhatsApp Image 2022-01-13 at 12 47 03](https://user-images.githubusercontent.com/93899422/149450416-0ef1c485-cf6d-4fb0-9528-7b2a90ff2602.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.54.28%20PM.jpeg)
+
+# - Para R=2200 Ω
+
+![WhatsApp Image 2022-01-13 at 12 47 20](https://user-images.githubusercontent.com/93899422/149450433-881d50f8-3907-4bcf-a2ae-ccf52a4b32dc.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.54.57%20PM.jpeg)
+
+# - Para R=3900 Ω
+
+![WhatsApp Image 2022-01-13 at 12 47 39](https://user-images.githubusercontent.com/93899422/149450469-7ba9ddf9-e07f-4bd9-9b34-7383bc90e27d.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.55.40%20PM.jpeg)
+
+# - Para R=4700 Ω
+
+![WhatsApp Image 2022-01-13 at 12 47 55](https://user-images.githubusercontent.com/93899422/149450479-f766bb32-176d-4151-8a37-56a4474fd530.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.56.11%20PM.jpeg)
+
 # Procedimiento
 # CALCULOS: 
 # Formula
@@ -98,70 +160,6 @@
 ![image](https://user-images.githubusercontent.com/93900233/149431617-91507408-eb4f-4c6c-b18f-4246f18ab830.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/149431818-ef2280e0-a6cc-42dd-98e5-2fb6be7973a6.png)
-
-
-
-# - Implemente el circuito que se presenta en la figura
-
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20175815.png)
-
-# - Resolución simulada
-
-# Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
-
-# - Formula
-
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20184316.png)
-
-# - Para R=220 Ω 
-
-![WhatsApp Image 2022-01-13 at 12 44 43](https://user-images.githubusercontent.com/93899422/149450281-1bdfc076-fd8b-4ebb-8242-c0e986542cd3.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.43.36%20PM.jpeg)
-
-# - Para R=470 Ω
-
-![WhatsApp Image 2022-01-13 at 12 45 20](https://user-images.githubusercontent.com/93899422/149450312-ec2e3e9b-4cc2-4fbf-b8f6-f3a028ab9677.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.45.51%20PM.jpeg)
-
-# - Para R=680 Ω
-
-![WhatsApp Image 2022-01-13 at 12 45 45](https://user-images.githubusercontent.com/93899422/149450333-507f6e69-fdd3-4dde-882d-47cf5d931b22.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.52.03%20PM.jpeg)
-
-# - Para R=820 Ω
-
-![WhatsApp Image 2022-01-13 at 12 46 01](https://user-images.githubusercontent.com/93899422/149450357-75c1c1b6-6092-465b-9b7a-e5e2f5f6a831.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.52.32%20PM.jpeg)
-
-# - Para R=1000 Ω
-
-![WhatsApp Image 2022-01-13 at 12 46 28](https://user-images.githubusercontent.com/93899422/149450377-220a0acc-c374-4c69-8ad4-1066f30554c6.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.53.23%20PM.jpeg)
-
-# - Para R=1500 Ω
-
-![WhatsApp Image 2022-01-13 at 12 46 45](https://user-images.githubusercontent.com/93899422/149450396-aaf368fa-0393-4079-aeea-8427586054e1.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.53.57%20PM.jpeg)
-
-# - Para R=1800 Ω
-
-![WhatsApp Image 2022-01-13 at 12 47 03](https://user-images.githubusercontent.com/93899422/149450416-0ef1c485-cf6d-4fb0-9528-7b2a90ff2602.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.54.28%20PM.jpeg)
-
-# - Para R=2200 Ω
-
-![WhatsApp Image 2022-01-13 at 12 47 20](https://user-images.githubusercontent.com/93899422/149450433-881d50f8-3907-4bcf-a2ae-ccf52a4b32dc.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.54.57%20PM.jpeg)
-
-# - Para R=3900 Ω
-
-![WhatsApp Image 2022-01-13 at 12 47 39](https://user-images.githubusercontent.com/93899422/149450469-7ba9ddf9-e07f-4bd9-9b34-7383bc90e27d.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.55.40%20PM.jpeg)
-
-# - Para R=4700 Ω
-
-![WhatsApp Image 2022-01-13 at 12 47 55](https://user-images.githubusercontent.com/93899422/149450479-f766bb32-176d-4151-8a37-56a4474fd530.jpeg)
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/WhatsApp%20Image%202022-01-13%20at%201.56.11%20PM.jpeg)
 
 # - Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
