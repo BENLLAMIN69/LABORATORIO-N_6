@@ -169,6 +169,8 @@ Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6
 
 - Formula
 
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20183813.png)
+
 ![image](https://user-images.githubusercontent.com/93900233/149434275-0aaec5cf-7608-4bfc-926c-7d672d837ce5.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/149434303-ca9eb9c4-e865-454c-bde6-2cd308d83a45.png)
@@ -178,7 +180,7 @@ Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6
 ![image](https://user-images.githubusercontent.com/93900233/149434336-a261368a-fa74-4b57-9d52-8fe0f0096e9c.png)
 
 
-![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20183813.png)
+
 
 |RL (Ohmios)|Cálculo de error |Error (%)|
 |-----------|-----------------|---------|
