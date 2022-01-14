@@ -211,6 +211,8 @@
 
 # Conclusiones 
 
-
+- Se puede concluir que apartir del experimento realizado, el Teorema de la maxima Transferencia de Potencia donde la resistencia de la fuente como de las resistencias analizadas hay una en particular que se acerca a su maxima transferencia de energia, para ello se uso dos laboratorios virtuales y se medio los diferentes valores de la potencia con un vatimetro y los valores del amperaje y voltaje con un multimetro.
+- Este teorema es muy necesario para la aplicacion tanto en la ciencia como en la tecnologia, y para ello se debe conocer cual es su fundamento para hacer eficiente algun proceso electronico.
+- Los resultados obtenidos en esta practica, aplicando el fundamento teorico del Teorema de la máxima transferencia de potencia son similares a los obtenidos en la simulación del circuito realizado en DCAC por lo que se puede concluir que el teorema es correcto.
 # Bibliografía
 - Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
