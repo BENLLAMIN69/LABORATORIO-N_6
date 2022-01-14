@@ -99,7 +99,9 @@ CALCULOS:
 
 
 - Implemente el circuito que se presenta en la figura
+
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20175815.png)
+
 - Resolución simulada
 
 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
