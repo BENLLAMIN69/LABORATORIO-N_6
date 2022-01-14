@@ -35,6 +35,9 @@
 
 # Procedimiento
 CALCULOS: 
+ Formula
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N_6/blob/main/ima/Captura%20de%20pantalla%202022-01-13%20184316.png)
 
  -Para RL=220 Ω 
 
